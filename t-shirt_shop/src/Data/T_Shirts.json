@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "299",
+    "currency": "Czk"
+  },
+  {
+    "id": "2",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "199",
+    "currency": "Czk"
+  },
+  {
+    "id": "3",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "249",
+    "currency": "Czk"
+  },
+  {
+    "id": "4",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "999",
+    "currency": "Czk"
+  },
+  {
+    "id": "5",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "149",
+    "currency": "Czk"
+  },
+  {
+    "id": "6",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "849",
+    "currency": "Czk"
+  },
+  {
+    "id": "7",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "269",
+    "currency": "Czk"
+  },
+  {
+    "id": "8",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "289",
+    "currency": "Czk"
+  },
+  {
+    "id": "9",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "399",
+    "currency": "Czk"
+  },
+  {
+    "id": "10",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "price": "749",
+    "currency": "Czk"
+  }
+]

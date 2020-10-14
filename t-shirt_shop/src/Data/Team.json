@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "name": "Michal Raštica",
+    "position": "Seo"
+  },
+  {
+    "id": "2",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "name": "Michal Raštica",
+    "position": "Seo"
+  },
+  {
+    "id": "3",
+    "photo": "https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg",
+    "name": "Michal Raštica",
+    "position": "Seo"
+  }
+]

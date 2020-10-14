@@ -1,0 +1,73 @@
+// nav bar
+.nav_bar {
+  background-color: blue;
+  height: 10rem;
+  margin-top: -1.5rem;
+}
+
+.nav_bar_header {
+  color: red;
+  text-align: center;
+  // margin-top: rem;
+}
+.nav_bar_links {
+  text-align: right;
+  color: white;
+  margin-right: 2rem;
+  margin-top: 5rem;
+}
+.nav_bar_products {
+  margin-right: 2rem;
+  color: white;
+}
+.nav_bar_about_as {
+  color: white;
+  margin-right: 2rem;
+}
+.nav_bar_basket {
+  color: white;
+}
+
+// t-shirts
+.T_shirts_flexbox {
+  margin-top: 1rem;
+  display: flex;
+  margin-bottom: 3rem;
+  flex-direction: column;
+  margin-left: 2rem;
+}
+
+//main page
+
+.main_page_flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+// about as
+
+.about_as_image {
+  border-radius: 50%;
+  width: 10rem;
+}
+.about_as_header {
+  text-align: center;
+}
+.about_as_flexbox {
+  display: flex;
+  // flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: right;
+  justify-content: space-evenly;
+  margin-top: 5rem;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.about_as_cells {
+  // align-items: center;
+  // text-align: right;
+  align-items: left;
+  // justify-content: space-around;
+}
